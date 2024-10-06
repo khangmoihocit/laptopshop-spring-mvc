@@ -1,0 +1,12 @@
+/* demo.css */
+button {
+    background-color: red;
+    color: aqua;
+}
+
+.inner-btn {
+    color: red;
+    background-color: green;
+    width: 200px;
+    height: 200px;
+}
