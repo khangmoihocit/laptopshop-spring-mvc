@@ -18,24 +18,14 @@
     <title>Document</title>
 </head>
 
-<%--<style>--%>
-<%--    .inner-text{--%>
-<%--        color: green;--%>
-<%--        background-color: red;--%>
-<%--        width: 100px;--%>
-<%--        height: 100px;--%>
-<%--        padding: 20px;--%>
-<%--        font-size: 20px;--%>
-<%--    }--%>
-<%--</style>--%>
-
 <body>
     <div>
-
+        <h2>he he</h2>
         <h1 class="inner-text"> ${khang} </h1>
         <h3> ${x} + 200 = 300</h3>
     </div>
     <button class="inner-btn">submit</button>
+
 
 </body>
 </html>
